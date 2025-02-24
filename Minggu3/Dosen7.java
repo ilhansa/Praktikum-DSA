@@ -121,7 +121,7 @@ public class Dosen7 {
                 namaTertua = dosen.nama;
             }
         }
-        System.out.println("Dosen termuda: " + namaTertua);
+        System.out.println("Dosen tertua: " + namaTertua);
     }
 
     public static void infoDosenPalingMuda(Dosen7[] arrayOfDosen) {

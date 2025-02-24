@@ -11,6 +11,8 @@ public class DosenDemo7 {
         Dosen7.tampilkanData(arrayOfDosen);
         Dosen7.hitungJumlahPerJenisKelamin(arrayOfDosen);
         Dosen7.hitungRataRataUsiaPerJenisKelamin(arrayOfDosen);
+        Dosen7.infoDosenPalingTua(arrayOfDosen);
+        Dosen7.infoDosenPalingMuda(arrayOfDosen);
 
         sc.close();
     }

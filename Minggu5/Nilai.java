@@ -1,4 +1,4 @@
-package Minggu5.BruteForceDivideAndConquer;
+package Minggu5;
 
 public class Nilai {
     public static void main(String[] args) {
